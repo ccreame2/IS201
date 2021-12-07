@@ -23,19 +23,23 @@
     left: 5px;
     right: 5px;
     top: 664px;
+    /*top: 1164px;*/
 }
 .bottomleft{
     left: 5px;
     right: 5px;
     top: 1264px;
+    /*top: 2264px;*/
 }
 .bottomright{
     left: 5px;
     right: 5px;
     top: 1864px;
+    /*top: 3364px;*/
 }
 .footer{
     top: 1225px;
+    /*top: 2225px;*/
     height: 50px;
     right: 5px;
     left: 5px;
