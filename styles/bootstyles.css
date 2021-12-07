@@ -15,49 +15,31 @@
     color: black;
 }
 .title{
-    top: 0%;
+    top: -2%;
     left: 3%;
 }
 .topleft{
     top: 10%;
     left: 3%;
     width: 30%;
-    /*left: 5px;
-    right: 5px;
-    top: 64px;*/
 }
 .topright{
     top: 10%;
     right: 3%;
-    bottom: 45%;
     width: 30%;
-    /*left: 5px;
-    right: 5px;
-    top: 664px;*/
-    /*top: 1164px;*/
 }
 .bottomleft{
-    bottom: 10%;
     left: 3%;
     top: 55%;
     width: 30%;
-    /*left: 5px;
-    right: 5px;
-    top: 1264px;*/
-    /*top: 2264px;*/
 }
 .bottomright{
-    bottom: 10%;
     right: 3%;
     top: 55%;
     width: 30%;
-    /*left: 5px;
-    right: 5px;
-    top: 1864px;*/
-    /*top: 3364px;*/
 }
 .footer{
-    bottom: 5%;
+    bottom: 2%;
     right: 3%;
     left: 3%;
     height: 5%;
