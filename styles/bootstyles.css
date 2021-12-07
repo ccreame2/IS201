@@ -1,0 +1,47 @@
+.body{
+    background-color: lightgray;
+}
+.main{
+    position: absolute;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    z-index: 2;
+    border-bottom: solid black 3px;
+    text-align: right;
+    color: black;
+}
+.topleft{
+    left: 5px;
+    right: 5px;
+    top: 64px;
+}
+.topright{
+    left: 5px;
+    right: 5px;
+    top: 664px;
+}
+.bottomleft{
+    left: 5px;
+    right: 5px;
+    top: 1264px;
+}
+.bottomright{
+    left: 5px;
+    right: 5px;
+    top: 1864px;
+}
+.footer{
+    top: 1225px;
+    height: 50px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+}
+.captions{
+    text-align: center;
+    font-size: 15px;
+}
