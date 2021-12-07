@@ -5,44 +5,63 @@
     position: absolute;
 }
 .header{
-    top: 5px;
-    left: 5px;
-    right: 5px;
-    height: 50px;
+    top: 1%;
+    left: 2%;
+    right: 2%;
+    height: 6%;
     z-index: 2;
     border-bottom: solid black 3px;
     text-align: right;
     color: black;
 }
+.title{
+    top: 0%;
+    left: 3%;
+}
 .topleft{
-    left: 5px;
+    top: 10%;
+    left: 3%;
+    bottom: 45%;
+    width: 45%;
+    /*left: 5px;
     right: 5px;
-    top: 64px;
+    top: 64px;*/
 }
 .topright{
-    left: 5px;
+    top: 10%;
+    right: 3%;
+    bottom: 45%;
+    width: 45%;
+    /*left: 5px;
     right: 5px;
-    top: 664px;
+    top: 664px;*/
     /*top: 1164px;*/
 }
 .bottomleft{
-    left: 5px;
+    bottom: 5%;
+    left: 3%;
+    top: 50%;
+    width: 45%;
+    /*left: 5px;
     right: 5px;
-    top: 1264px;
+    top: 1264px;*/
     /*top: 2264px;*/
 }
 .bottomright{
-    left: 5px;
+    bottom: 5%;
+    right: 3%;
+    top: 50%;
+    width: 45%;
+    /*left: 5px;
     right: 5px;
-    top: 1864px;
+    top: 1864px;*/
     /*top: 3364px;*/
 }
 .footer{
-    top: 1225px;
-    /*top: 2225px;*/
-    height: 50px;
-    right: 5px;
-    left: 5px;
+    bottom: 5%;
+    right: 3%;
+    left: 3%;
+    height: 5%;
     text-align: center;
 }
 .captions{
